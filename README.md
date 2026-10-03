@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of retechvn/flarum-tele-noti.** Not for installation: use [Packagist](https://packagist.org/packages/retechvn/flarum-tele-noti) or the [upstream repository](https://github.com/hotroit-retech-vn/flarum-tele-noti).
 
-**0** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/retechvn-flarum-tele-noti/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.2.0`
+**1** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/retechvn-flarum-tele-noti/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2024-11-08 | `^1.2.0` | [Browse](https://github.com/flarchive/retechvn-flarum-tele-noti/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/retechvn-flarum-tele-noti.json](https://github.com/flarchive/archive-index/blob/main/packages/retechvn-flarum-tele-noti.json)
 
